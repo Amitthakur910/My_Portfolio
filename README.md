@@ -1,7 +1,18 @@
 # 🌐 Personal Portfolio Website
 
-A responsive and visually appealing personal portfolio website built using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.
-This site showcases my skills, projects, and contact information in a clean, modern layout.
+A modern and responsive personal portfolio website showcasing my skills, projects, education, and professional experience. Built to highlight my journey as a developer and provide an easy way for recruiters, clients, and fellow developers to connect with me.
+
+## 🚀 Features
+
+- Responsive design for all devices
+- Modern and clean user interface
+- About Me section
+- Skills showcase
+- Projects portfolio
+- Education & Experience section
+- Contact form
+- Social media links
+- Fast loading and optimized performance
 
 🚀 Tech Stack
 
@@ -11,12 +22,5 @@ This site showcases my skills, projects, and contact information in a clean, mod
 - **Bootstrap** – Rapid layout and components
 - **Tailwind CSS** – Utility-first styling
 
-📌 Features
-
-- ✨ Clean and modern responsive design
-- 🧑‍💻 Project showcase section
-- 📄 Resume/CV download option
-- 📱 Mobile-friendly layout
-- 📬 Contact form with functional design
 
 
